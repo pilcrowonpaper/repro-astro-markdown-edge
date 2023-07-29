@@ -5,4 +5,4 @@
 ```
 pnpm i
 pnpm build
-```
+``` a le lek
